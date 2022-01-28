@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','tms');
+define('DB_HOST','db4free.net');
+define('DB_USER',' elitelit1');
+define('DB_PASS','Heshan1234');
+define('DB_NAME','elitelit2');
 // Establish database connection.
 try
 {
