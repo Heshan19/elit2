@@ -101,7 +101,7 @@ foreach($results as $result)
 ?>
 
 
-		<h3 class="wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;"><?php 	echo $_GET['mmmmmmmmmm'] ?></h3>
+		<h3 class="wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">heshan</h3>
 		
 		
 	<p>
