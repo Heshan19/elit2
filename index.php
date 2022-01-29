@@ -127,6 +127,25 @@ foreach($results as $result)
 </div>
 			<div class="clearfix"></div>
 	</div>
+	
+	
+	
+<section class="about" id="about">
+
+    <div class="image">
+        <img src="image\112.jpg" alt="">
+    </div>
+
+    <div class="content">
+        <h3>memorable outdoor experiences</h3>
+        <p>Outdoor recreation or outdoor activity refers to recreation engaged in out of doors, most commonly in natural settings.
+          When the activity involves exceptional excitement, physical challenge, or risk,
+          it is sometimes referred to as "adventure recreation" or "adventure training", rather than an extreme sport.</p>
+        <p></p>
+        <a href="#" class="btn">read more</a>
+    </div>
+
+</section>
 
 
 
@@ -166,6 +185,7 @@ foreach($results as $result)
 		<div class="clearfix"></div>
 	</div>
 </div>
+	
 
 <?php include('includes/footer.php');?>
 <!-- signup -->
